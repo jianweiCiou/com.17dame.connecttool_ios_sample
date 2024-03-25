@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "com.17dame.connecttool_ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jianweiCiou/com.17dame.connecttool_ios",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c5125aa66ef481c739c6e77512396619f73305d7"
+      }
+    }
+  ],
+  "version" : 2
+}
